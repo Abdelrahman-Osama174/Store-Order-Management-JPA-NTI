@@ -1,4 +1,4 @@
-package com.store.Repository;
+package com.store.repository;
 
 import com.store.model.Order;
 import com.store.enums.OrderStatus;

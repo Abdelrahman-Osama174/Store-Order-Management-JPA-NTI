@@ -41,6 +41,10 @@ public class Product extends BaseEntity {
         this.stock = stock;
     }
 
+    public void addCategory(Category category) {
+        categories.add(category);
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

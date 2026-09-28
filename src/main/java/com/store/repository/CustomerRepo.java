@@ -1,4 +1,4 @@
-package com.store.Repository;
+package com.store.repository;
 
 import com.store.model.Customer;
 import jakarta.persistence.EntityManager;

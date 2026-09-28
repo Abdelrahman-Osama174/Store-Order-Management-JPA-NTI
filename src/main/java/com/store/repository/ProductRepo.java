@@ -1,4 +1,4 @@
-package com.store.Repository;
+package com.store.repository;
 
 import com.store.model.Category;
 import com.store.model.Product;
