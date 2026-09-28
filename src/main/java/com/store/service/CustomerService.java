@@ -2,7 +2,6 @@ package com.store.service;
 
 import com.store.exceptions.DuplicateCustomerException;
 import com.store.embeddables.Address;
-import com.store.logger.AuditLogService;
 import com.store.model.Customer;
 import com.store.repository.CustomerRepo;
 import lombok.RequiredArgsConstructor;

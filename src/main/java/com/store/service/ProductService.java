@@ -3,7 +3,6 @@ package com.store.service;
 import com.store.repository.CategoryRepo;
 import com.store.repository.ProductRepo;
 import com.store.exceptions.ResourceNotFoundException;
-import com.store.logger.AuditLogService;
 import com.store.model.Category;
 import com.store.model.Product;
 

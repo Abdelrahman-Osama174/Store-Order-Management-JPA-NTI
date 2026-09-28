@@ -1,5 +1,7 @@
-package com.store.logger;
+package com.store.service;
 
+import com.store.model.AuditLog;
+import com.store.repository.AuditLogRepo;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;

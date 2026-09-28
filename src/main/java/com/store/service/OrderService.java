@@ -6,7 +6,6 @@ import com.store.enums.PaymentMethod;
 import com.store.exceptions.InsufficientStockException;
 import com.store.exceptions.InvalidOrderStateException;
 import com.store.exceptions.ResourceNotFoundException;
-import com.store.logger.AuditLogService;
 import com.store.model.*;
 import com.store.repository.CustomerRepo;
 import com.store.enums.OrderStatus;

@@ -1,6 +1,5 @@
-package com.store.logger;
+package com.store.model;
 
-import com.store.model.BaseEntity;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

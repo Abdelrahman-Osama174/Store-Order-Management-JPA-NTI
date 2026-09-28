@@ -1,5 +1,6 @@
-package com.store.logger;
+package com.store.repository;
 
+import com.store.model.AuditLog;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import org.springframework.stereotype.Repository;
